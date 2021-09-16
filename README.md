@@ -5,5 +5,5 @@ This is my first project for JavaScript
 
 A stopwatch is a timepiece designed to measure the amount of time that elapses between its activation and deactivation.
 
-<img src="http://prntscr.com/1sd5z81" alt="stopwatch" width="500"/>
+<img src="http://prntscr.com/1sd5z81" alt="stopwatch" width="200"/>
 
